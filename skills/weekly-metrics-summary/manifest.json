@@ -1,0 +1,29 @@
+{
+  "name": "Weekly Metrics Summary",
+  "slug": "weekly-metrics-summary",
+  "version": "1.1.0",
+  "category": "ops",
+  "description": "Summarize weekly metrics, outliers, likely drivers, and recommended follow-up in one operating brief.",
+  "setup_time_minutes": 8,
+  "compatible_with": [
+    "generic-agent",
+    "claude-style-workflow",
+    "mcp-friendly"
+  ],
+  "price_tier": "basic",
+  "required_tools": [],
+  "optional_tools": [],
+  "required_inputs": [
+    "Metric export",
+    "Primary KPIs"
+  ],
+  "verification_status": "curated",
+  "last_updated": "2026-11-22",
+  "author": "OutcomeKit",
+  "tags": [
+    "metrics",
+    "weekly review",
+    "ops",
+    "dashboard"
+  ]
+}

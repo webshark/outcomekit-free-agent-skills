@@ -1,0 +1,28 @@
+{
+  "name": "Weekly Founder Update Writer",
+  "slug": "weekly-founder-update-writer",
+  "version": "1.1.0",
+  "category": "content",
+  "description": "Turn raw notes into a founder update for investors, advisors, or your team with a consistent structure.",
+  "setup_time_minutes": 8,
+  "compatible_with": [
+    "generic-agent",
+    "claude-style-workflow",
+    "chatgpt-project"
+  ],
+  "price_tier": "basic",
+  "required_tools": [],
+  "optional_tools": [],
+  "required_inputs": [
+    "Weekly notes",
+    "Audience"
+  ],
+  "verification_status": "curated",
+  "last_updated": "2026-11-22",
+  "author": "OutcomeKit",
+  "tags": [
+    "founder updates",
+    "weekly review",
+    "stakeholder comms"
+  ]
+}
