@@ -1,0 +1,29 @@
+{
+  "name": "Meeting Follow-Up Email Writer",
+  "slug": "meeting-follow-up-email",
+  "version": "1.1.0",
+  "category": "sales",
+  "description": "Turn call notes into a same-day follow-up email with clear next steps.",
+  "setup_time_minutes": 6,
+  "compatible_with": [
+    "generic-agent",
+    "claude-style-workflow",
+    "chatgpt-project"
+  ],
+  "price_tier": "basic",
+  "required_tools": [],
+  "optional_tools": [],
+  "required_inputs": [
+    "Call notes",
+    "Recipient and goal"
+  ],
+  "verification_status": "curated",
+  "last_updated": "2026-11-22",
+  "author": "OutcomeKit",
+  "tags": [
+    "follow-up",
+    "meeting notes",
+    "recap email",
+    "next steps"
+  ]
+}

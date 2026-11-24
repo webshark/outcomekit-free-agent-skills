@@ -1,0 +1,30 @@
+{
+  "name": "Launch Announcement Writer",
+  "slug": "launch-announcement-writer",
+  "version": "1.1.0",
+  "category": "marketing",
+  "description": "Turn a product update into launch posts for X, LinkedIn, and email.",
+  "setup_time_minutes": 8,
+  "compatible_with": [
+    "generic-agent",
+    "claude-style-workflow",
+    "codex-style-workflow",
+    "mcp-friendly"
+  ],
+  "price_tier": "basic",
+  "required_tools": [],
+  "optional_tools": [],
+  "required_inputs": [
+    "What shipped",
+    "Audience and CTA"
+  ],
+  "verification_status": "curated",
+  "last_updated": "2026-11-22",
+  "author": "OutcomeKit",
+  "tags": [
+    "launch",
+    "announcement",
+    "social posts",
+    "product updates"
+  ]
+}

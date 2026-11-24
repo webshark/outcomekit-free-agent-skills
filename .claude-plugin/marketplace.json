@@ -1,0 +1,133 @@
+{
+  "name": "outcomekit",
+  "owner": {
+    "name": "OutcomeKit",
+    "email": "team@outcomekit.ai",
+    "url": "https://outcomekit.ai"
+  },
+  "metadata": {
+    "description": "Free business workflow skills for founders and small teams, from OutcomeKit",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "meeting-prep-brief",
+      "description": "Create a prep brief with context, goals, risks, and suggested questions before customer, candidate, or internal meetings.",
+      "version": "1.1.0",
+      "author": {
+        "name": "OutcomeKit",
+        "url": "https://outcomekit.ai"
+      },
+      "homepage": "https://outcomekit.ai/skills/meeting-prep-brief",
+      "repository": "https://github.com/webshark/outcomekit-free-agent-skills",
+      "license": "CC-BY-4.0",
+      "category": "productivity",
+      "keywords": [
+        "meeting prep",
+        "brief",
+        "context switching",
+        "ops"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/meeting-prep-brief"
+      ]
+    },
+    {
+      "name": "weekly-metrics-summary",
+      "description": "Summarize weekly metrics, outliers, likely drivers, and recommended follow-up in one operating brief.",
+      "version": "1.1.0",
+      "author": {
+        "name": "OutcomeKit",
+        "url": "https://outcomekit.ai"
+      },
+      "homepage": "https://outcomekit.ai/skills/weekly-metrics-summary",
+      "repository": "https://github.com/webshark/outcomekit-free-agent-skills",
+      "license": "CC-BY-4.0",
+      "category": "productivity",
+      "keywords": [
+        "metrics",
+        "weekly review",
+        "ops",
+        "dashboard"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/weekly-metrics-summary"
+      ]
+    },
+    {
+      "name": "weekly-founder-update-writer",
+      "description": "Turn raw notes into a founder update for investors, advisors, or your team with a consistent structure.",
+      "version": "1.1.0",
+      "author": {
+        "name": "OutcomeKit",
+        "url": "https://outcomekit.ai"
+      },
+      "homepage": "https://outcomekit.ai/skills/weekly-founder-update-writer",
+      "repository": "https://github.com/webshark/outcomekit-free-agent-skills",
+      "license": "CC-BY-4.0",
+      "category": "productivity",
+      "keywords": [
+        "founder updates",
+        "weekly review",
+        "stakeholder comms"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/weekly-founder-update-writer"
+      ]
+    },
+    {
+      "name": "meeting-follow-up-email",
+      "description": "Turn call notes into a same-day follow-up email with clear next steps.",
+      "version": "1.1.0",
+      "author": {
+        "name": "OutcomeKit",
+        "url": "https://outcomekit.ai"
+      },
+      "homepage": "https://outcomekit.ai/skills/meeting-follow-up-email",
+      "repository": "https://github.com/webshark/outcomekit-free-agent-skills",
+      "license": "CC-BY-4.0",
+      "category": "productivity",
+      "keywords": [
+        "follow-up",
+        "meeting notes",
+        "recap email",
+        "next steps"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/meeting-follow-up-email"
+      ]
+    },
+    {
+      "name": "launch-announcement-writer",
+      "description": "Turn a product update into launch posts for X, LinkedIn, and email.",
+      "version": "1.1.0",
+      "author": {
+        "name": "OutcomeKit",
+        "url": "https://outcomekit.ai"
+      },
+      "homepage": "https://outcomekit.ai/skills/launch-announcement-writer",
+      "repository": "https://github.com/webshark/outcomekit-free-agent-skills",
+      "license": "CC-BY-4.0",
+      "category": "productivity",
+      "keywords": [
+        "launch",
+        "announcement",
+        "social posts",
+        "product updates"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/launch-announcement-writer"
+      ]
+    }
+  ]
+}
