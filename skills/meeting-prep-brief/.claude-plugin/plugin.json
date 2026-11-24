@@ -1,0 +1,23 @@
+{
+  "name": "outcomekit-meeting-prep-brief",
+  "displayName": "Meeting Prep Brief (OutcomeKit)",
+  "description": "Create a prep brief with context, goals, risks, and suggested questions before customer, candidate, or internal meetings.",
+  "version": "1.1.0",
+  "author": {
+    "name": "OutcomeKit",
+    "email": "team@outcomekit.ai",
+    "url": "https://outcomekit.ai"
+  },
+  "homepage": "https://outcomekit.ai/skills/meeting-prep-brief",
+  "repository": "https://github.com/webshark/outcomekit-free-agent-skills",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "meeting prep",
+    "brief",
+    "context switching",
+    "ops"
+  ],
+  "skills": [
+    "./"
+  ]
+}

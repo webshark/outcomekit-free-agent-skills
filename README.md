@@ -19,17 +19,17 @@ Each pack includes `SKILL.md` (instructions and decision rules), `manifest.json`
 Install one pack (Claude Code 2.1.275 or later):
 
 ```
-/plugin install meeting-prep-brief --marketplace webshark/outcomekit-free-agent-skills
+/plugin install outcomekit-meeting-prep-brief --marketplace webshark/outcomekit-free-agent-skills
 ```
 
 On older versions, add the marketplace once, then install any pack by name:
 
 ```
 /plugin marketplace add webshark/outcomekit-free-agent-skills
-/plugin install meeting-prep-brief@outcomekit
+/plugin install outcomekit-meeting-prep-brief@outcomekit
 ```
 
-Pack names: `meeting-prep-brief`, `weekly-metrics-summary`, `weekly-founder-update-writer`, `meeting-follow-up-email`, `launch-announcement-writer`.
+Pack names: `outcomekit-meeting-prep-brief`, `outcomekit-weekly-metrics-summary`, `outcomekit-weekly-founder-update-writer`, `outcomekit-meeting-follow-up-email`, `outcomekit-launch-announcement-writer`.
 
 ### skills CLI
 

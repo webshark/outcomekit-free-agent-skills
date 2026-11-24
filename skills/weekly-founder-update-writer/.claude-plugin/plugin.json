@@ -1,0 +1,22 @@
+{
+  "name": "outcomekit-weekly-founder-update-writer",
+  "displayName": "Weekly Founder Update Writer (OutcomeKit)",
+  "description": "Turn raw notes into a founder update for investors, advisors, or your team with a consistent structure.",
+  "version": "1.1.0",
+  "author": {
+    "name": "OutcomeKit",
+    "email": "team@outcomekit.ai",
+    "url": "https://outcomekit.ai"
+  },
+  "homepage": "https://outcomekit.ai/skills/weekly-founder-update-writer",
+  "repository": "https://github.com/webshark/outcomekit-free-agent-skills",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "founder updates",
+    "weekly review",
+    "stakeholder comms"
+  ],
+  "skills": [
+    "./"
+  ]
+}

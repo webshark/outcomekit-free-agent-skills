@@ -1,0 +1,23 @@
+{
+  "name": "outcomekit-weekly-metrics-summary",
+  "displayName": "Weekly Metrics Summary (OutcomeKit)",
+  "description": "Summarize weekly metrics, outliers, likely drivers, and recommended follow-up in one operating brief.",
+  "version": "1.1.0",
+  "author": {
+    "name": "OutcomeKit",
+    "email": "team@outcomekit.ai",
+    "url": "https://outcomekit.ai"
+  },
+  "homepage": "https://outcomekit.ai/skills/weekly-metrics-summary",
+  "repository": "https://github.com/webshark/outcomekit-free-agent-skills",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "metrics",
+    "weekly review",
+    "ops",
+    "dashboard"
+  ],
+  "skills": [
+    "./"
+  ]
+}

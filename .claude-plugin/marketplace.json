@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "meeting-prep-brief",
+      "name": "outcomekit-meeting-prep-brief",
       "description": "Create a prep brief with context, goals, risks, and suggested questions before customer, candidate, or internal meetings.",
       "version": "1.1.0",
       "author": {
@@ -28,14 +28,10 @@
         "context switching",
         "ops"
       ],
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/meeting-prep-brief"
-      ]
+      "source": "./skills/meeting-prep-brief"
     },
     {
-      "name": "weekly-metrics-summary",
+      "name": "outcomekit-weekly-metrics-summary",
       "description": "Summarize weekly metrics, outliers, likely drivers, and recommended follow-up in one operating brief.",
       "version": "1.1.0",
       "author": {
@@ -52,14 +48,10 @@
         "ops",
         "dashboard"
       ],
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/weekly-metrics-summary"
-      ]
+      "source": "./skills/weekly-metrics-summary"
     },
     {
-      "name": "weekly-founder-update-writer",
+      "name": "outcomekit-weekly-founder-update-writer",
       "description": "Turn raw notes into a founder update for investors, advisors, or your team with a consistent structure.",
       "version": "1.1.0",
       "author": {
@@ -75,14 +67,10 @@
         "weekly review",
         "stakeholder comms"
       ],
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/weekly-founder-update-writer"
-      ]
+      "source": "./skills/weekly-founder-update-writer"
     },
     {
-      "name": "meeting-follow-up-email",
+      "name": "outcomekit-meeting-follow-up-email",
       "description": "Turn call notes into a same-day follow-up email with clear next steps.",
       "version": "1.1.0",
       "author": {
@@ -99,14 +87,10 @@
         "recap email",
         "next steps"
       ],
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/meeting-follow-up-email"
-      ]
+      "source": "./skills/meeting-follow-up-email"
     },
     {
-      "name": "launch-announcement-writer",
+      "name": "outcomekit-launch-announcement-writer",
       "description": "Turn a product update into launch posts for X, LinkedIn, and email.",
       "version": "1.1.0",
       "author": {
@@ -123,11 +107,7 @@
         "social posts",
         "product updates"
       ],
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/launch-announcement-writer"
-      ]
+      "source": "./skills/launch-announcement-writer"
     }
   ]
 }
