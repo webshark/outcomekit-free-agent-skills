@@ -37,4 +37,4 @@ These are OutcomeKit's free packs. The paid packs add input and output schemas, 
 
 ## License
 
-[CC BY 4.0](LICENSE). Use, share and adapt freely, with credit and a link to [outcomekit.ai](https://outcomekit.ai).
+Copyright (c) 2026 OutcomeKit. Licensed under [CC BY 4.0](LICENSE). Use, share and adapt freely, including commercially, with credit to OutcomeKit and a link to [outcomekit.ai](https://outcomekit.ai).
