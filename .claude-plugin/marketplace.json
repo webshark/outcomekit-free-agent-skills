@@ -15,7 +15,7 @@
       "description": "Create a prep brief with context, goals, risks, and suggested questions before customer, candidate, or internal meetings.",
       "version": "1.1.0",
       "author": {
-        "name": "OutcomeKit",
+        "name": "Simon Gelfand",
         "url": "https://outcomekit.ai"
       },
       "homepage": "https://outcomekit.ai/skills/meeting-prep-brief",
@@ -35,7 +35,7 @@
       "description": "Summarize weekly metrics, outliers, likely drivers, and recommended follow-up in one operating brief.",
       "version": "1.1.0",
       "author": {
-        "name": "OutcomeKit",
+        "name": "Simon Gelfand",
         "url": "https://outcomekit.ai"
       },
       "homepage": "https://outcomekit.ai/skills/weekly-metrics-summary",
@@ -55,7 +55,7 @@
       "description": "Turn raw notes into a founder update for investors, advisors, or your team with a consistent structure.",
       "version": "1.1.0",
       "author": {
-        "name": "OutcomeKit",
+        "name": "Simon Gelfand",
         "url": "https://outcomekit.ai"
       },
       "homepage": "https://outcomekit.ai/skills/weekly-founder-update-writer",
@@ -74,7 +74,7 @@
       "description": "Turn call notes into a same-day follow-up email with clear next steps.",
       "version": "1.1.0",
       "author": {
-        "name": "OutcomeKit",
+        "name": "Simon Gelfand",
         "url": "https://outcomekit.ai"
       },
       "homepage": "https://outcomekit.ai/skills/meeting-follow-up-email",
@@ -94,7 +94,7 @@
       "description": "Turn a product update into launch posts for X, LinkedIn, and email.",
       "version": "1.1.0",
       "author": {
-        "name": "OutcomeKit",
+        "name": "Simon Gelfand",
         "url": "https://outcomekit.ai"
       },
       "homepage": "https://outcomekit.ai/skills/launch-announcement-writer",
